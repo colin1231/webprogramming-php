@@ -1,5 +1,7 @@
 <?php
     # TODO: MySQL 데이터베이스 연결 및 레코드 가져오기!
+
+
 ?>
 
 <!-- 출처 : https://colorlib.com/wp/template/responsive-table-v1/ -->
